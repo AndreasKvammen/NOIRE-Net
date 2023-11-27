@@ -19,6 +19,8 @@
 *.rar
 *.tar
 *.zip
+*.jupyter
+*.ipynb_checkpoints
 
 # Logs and databases #
 ######################
