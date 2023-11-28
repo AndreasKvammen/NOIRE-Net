@@ -21,6 +21,7 @@
 *.zip
 .ipynb_checkpoints
 .jupyter
+.gitattributes
 
 # Logs and databases #
 ######################
