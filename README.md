@@ -8,7 +8,7 @@ git clone https://github.com/AndreasKvammen/NOIRE-Net.git
 
 This requires: 
  - GitHub (for cloning the repository)
- - Python, Jupyter and Tensorflow working together on your local machine. For this work, Python 3.10.9, Jupyter Lab 3.5.3 and Tensorflow 2.9.0 were used.
+ - Python, Jupyter and Tensorflow working together on your local machine. For this work, Python 3.10.9, JupyterLab Desktop 4.0.7 and Tensorflow 2.9.0 were used.
 
 ## Source
 contains the Jupyter Notebooks to train and test NOIRE-Net
