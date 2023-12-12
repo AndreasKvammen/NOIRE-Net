@@ -1,5 +1,5 @@
 # NOIRE-Net - A convolutional neural network for automatic classification and scaling of high-latitude ionograms
-This repository contains the code and data to reproduce some of the main results from the paper "NOIRE-Net - A convolutional neural network for automatic classification and scaling of high-latitude ionograms"
+This repository contains the code and data to reproduce the main results from the paper "NOIRE-Net - A convolutional neural network for automatic classification and scaling of high-latitude ionograms"
 <img src="https://github.com/AndreasKvammen/NOIRE-Net/blob/main/logo.jpg?raw=true">
 
 ## Installation 
